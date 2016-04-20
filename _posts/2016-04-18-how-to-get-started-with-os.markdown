@@ -3,7 +3,8 @@ layout: post
 title:  "Чому варто почати писати у Open Source і як?"
 date:   2016-04-18 20:58:05 +0300
 comments: true
-categories: jekyll update
+categories:
+- open source
 ---
 
 Як неважко зрозуміти з назви, Open Source проекти - це власне проекти у яких вихідний код (частина або весь) знаходиться у вільному доступі.
