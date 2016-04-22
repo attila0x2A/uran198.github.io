@@ -11,7 +11,7 @@ email: uran198@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the blog about my journey in the programming world!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://uran198.github.io" # the base hostname & protocol for your site
 twitter_username: ATovt
 github_username:  Uran198
 exclude: [about]
