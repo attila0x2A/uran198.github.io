@@ -5,6 +5,8 @@ comments: true
 categories: en freelance
 ---
 
+![]({{ site.url }}/images/first-upwork-mountain.jpg)
+
 Recently, I've decided that I want to become a freelancer. For a lot of days I
 was holding myself back and doing nothing in that direction. You should agree
 that it seems scary to try and go into freelancing without at least a few years
