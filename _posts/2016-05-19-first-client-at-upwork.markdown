@@ -14,8 +14,7 @@ You cannot get something by doing nothing, so after getting a lot of inspiration
 from various online sources, I finally decided that it was time to start moving
 in this direction at least slowly. With this thing in mind I registered at
 Upwork. In the beginning I had no faith that I will lend a job, I didn't even
-have faith that someone would respond to my proposals. But, it turned out that
-people did respond.
+have faith that someone would respond to my proposals. I was wrong in my believes.
 
 I didn't start writing proposals from the first day I registered. I decided that
 I have to have something to show before someone at least will consider hiring
@@ -72,8 +71,8 @@ send out proposals. I tried to pick only those projects that I was sure, I will
 be able to do and I was interested in doing. And while writing cover letters I
 tried to express that I really did read the project description, that I can do
 the work and that I'm motivated and interested in it. Also, as I had no prior
-experience I tried not to put very high price, though I'm not sure this is a
-good thing to do.
+experience, I tried to put lower prices, though I'm not sure this is a good
+thing to do.
 
 I was surprised and encouraged that people interviewed me. That meant that I was
 on the right track. After few weeks of sending out proposals, I've got my first
@@ -81,7 +80,7 @@ job. The contract was for 225$ and I completed it in 4 days of work, 3 of which
 I worked really a lot. My work was rewarded and I got 5 stars review, 50$ bonus
 and the client proposed a new project right away. Maybe, I just got lucky, but
 now I believe more in my ability to become a professional freelancer and the
-only big error I made in my journey from wanting to doing is hesitating for so
-long time! So, if you want something to do, but think that you may be not good
-enough, you'll never know until you try, so just go for it! As for me the future
+only big error I made in my journey from wanting to doing is hesitating for such
+a long time! So, if you want something to do, but think that you may be not good
+enough, you'll never know until you try, so just go for it! As for me, the future
 would tell if I'll be successful in freelancing.
