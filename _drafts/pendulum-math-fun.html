@@ -1,0 +1,39 @@
+---
+layout: post
+title: pendulum-math-fun.html
+---
+
+# Here will be html from ipython notebook, for now some notions
+ Outline:
+  - I've never thought that I'll have fun doing university project. Usually they quite theoretic and have no obious practical
+  implications. This one was little different. Although it's hard to come up with practical implications here either,
+  but it was about simulation phisicall process, which is at least no in abstract world of math. So, the problem was to
+  make a model of pendulum to which non-periodic force is ampied.
+  After small research, I figured what needed to be done. In essense just to build differential equation that will
+  describe process of moving pendulum and solve it.
+# Would be great to have a picture with strenghts.
+  I started with writing out all the forces involved.
+# Here will be the formulas.
+  s - is the arc length.
+  Provide from wiki a little modified derivation of equation.
+  Provide a link to wiki page for other methods of getting an equation.
+
+  Here we have an differential equation. So solve it, we need to have initial conditions, i. e. initial position of
+  pendulum and it's initial speed. It will be the value of theta(0) and theta'(0).
+  We will solve this with numerical methods. Maybe there is analitic solution, but I couldn't come up with one.
+# Here will be code of the solution, maybe some explanations with it
+  Now, we have to test that it works as expected. Let's add a plot to display changes in theta:
+# Here adding a plot to display changes of theta
+  Now this is better, but we can do better.
+  Let's go ahead and try to make an animation of the thing.
+# Here is the animation code and explanations.
+  Great!
+  Now comes the fun part. Basically it's playing with the force.
+# Here will look at different behaviours depending on the force.
+# Tring t * sin(t), exp(t) * sin(t), exp(t), t, changing angle and constant
+# Also, exp(-t) etc. someting that will decreas up to 0, but not less
+# Maybe some periodic forces also
+# Compensating gravitational force.
+# But, not too much. I think max 3-4 examples would suffice
+  What I used for this. IPython notebook.
+# What I use can go in the begging as well.
