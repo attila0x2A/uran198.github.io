@@ -11,7 +11,7 @@ email: uran198@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the blog about my journey in the programming world!
   Feel free to join a google group and subscribe to email updates to get an email every time I post.
-  <a href="https://groups.google.com/forum/#!forum/uran198-blog/join">Subscribe!</a>
+  <a href='https://groups.google.com/forum/#!forum/uran198-blog/join'>Subscribe!</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uran198.github.io" # the base hostname & protocol for your site
 twitter_username: ATovt
